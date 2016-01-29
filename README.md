@@ -1,5 +1,2 @@
-# SKY-website-redesign-2016
-Update to Cornell College SKY website
-
-chris569x@gmail.com - Chris
+Working on fixing CSS files. main.css and sl-slide.css are what I am working on. Currently, everthing is working but the arrows on the left and right side of the slider.
 
